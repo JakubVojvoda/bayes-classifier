@@ -4,7 +4,7 @@
  *  by Jakub Vojvoda, github.com/JakubVojvoda
  *  2016
  *
- *  GNU LGPL v3 (see LICENCE)
+ *  GNU LGPL v3 (see LICENSE)
  *  file: bayesclassifier.cpp
  */
 
